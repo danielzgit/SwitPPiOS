@@ -81,5 +81,3 @@ for i in 0..<20{
     
   }
 }
-
-auto.velocidad
